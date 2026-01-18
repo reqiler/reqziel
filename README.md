@@ -9,7 +9,7 @@ File-based routing, dynamic routes, layouts, middleware, and API routes
 
 --- -->
 
-# Reqzix testtt framework PHP
+# Reqziel testtt framework PHP
 
 ## ✨ Features
 
