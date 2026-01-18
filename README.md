@@ -13,7 +13,7 @@ Built with **file-based routing, layouts, middleware, and API routes**
 ## 📦 Create Project
 
 ```bash
-composer create-project reqiler/reqziel my-php-app
+composer create-project reqiler/reqziel my-reqziel-app
 ```
 
 Then start the dev server:
