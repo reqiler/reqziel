@@ -12,9 +12,7 @@
     }
   },
   "scripts": {
-    "post-create-project-cmd": [
-      "@php -r \"file_exists('.env') || copy('.env.example', '.env');\""
-    ]
+    "dev": "php cli/app.php dev"
   },
   "minimum-stability": "stable",
   "prefer-stable": true
